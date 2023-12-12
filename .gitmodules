@@ -1,0 +1,9 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/night-tasker/backend
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/night-tasker/frontend
+[submodule "infra"]
+	path = infra
+	url = https://github.com/night-tasker/infra
